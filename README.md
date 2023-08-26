@@ -12,12 +12,10 @@ In this Repo has three project
 In this project has 2 pages. First Home page and Second Blog page. On home page Showing list of all blogs and when we click + icon on header then we can add new blog . On click Read More button user go to blog page where user can read complete details of a particular blog.
 
 ## Screenshots
-![Screenshot_20230825_025439](https://github.com/AbuZaid55/MileStone/assets/115403447/e910a78c-d3ba-4803-ae77-0f75486e124b)
-![Screenshot_20230825_025447](https://github.com/AbuZaid55/MileStone/assets/115403447/26fdb3e3-3b6f-4e70-a768-e5eadb59a5d0)
-![Screenshot_20230825_025514](https://github.com/AbuZaid55/MileStone/assets/115403447/95fab17d-7505-4833-ba01-c079ddd03368)
 
-
-
+![Screenshot_20230826_054558](https://github.com/AbuZaid55/MileStone/assets/115403447/03bc4bf6-d402-44ef-94f7-7107dc2c0048)
+![Screenshot_20230826_054615](https://github.com/AbuZaid55/MileStone/assets/115403447/ead2766c-1feb-43d7-9dcc-bb7843742de9)
+![Screenshot_20230826_054629](https://github.com/AbuZaid55/MileStone/assets/115403447/569bc72e-e1d3-4332-ab29-6808d715a010)
 
 
 
@@ -28,8 +26,8 @@ On index page showing list of movies . we can see movie according to search inpu
 
 ## Screenshots
 
-![Screenshot_20230821_180319](https://github.com/AbuZaid55/MileStone/assets/115403447/763db2d3-013a-4bfa-b479-d2e73646a716)
-![Screenshot_20230821_180449](https://github.com/AbuZaid55/MileStone/assets/115403447/9eb461b5-3b63-4c01-8b00-91f65c4a4f36)
+![Screenshot_20230826_054354](https://github.com/AbuZaid55/MileStone/assets/115403447/7cd5cd85-2e63-4ca9-a7e7-f5d7367e7fee)
+![Screenshot_20230826_054406](https://github.com/AbuZaid55/MileStone/assets/115403447/d1c19eef-1408-4e3f-96a7-3e66ceae843c)
 
 
 ## 3. Todo Web App
@@ -38,7 +36,7 @@ The todo application has one main page. The home page. On the home page, user ca
 
 ## Screenshots
 
-![Screenshot_20230825_025722](https://github.com/AbuZaid55/MileStone/assets/115403447/31962365-8ed3-422f-a202-e44cce452440)
+![Screenshot_20230826_055025](https://github.com/AbuZaid55/MileStone/assets/115403447/5102b9ac-8ecd-4cba-a78f-01a779a4b554)
 
 
 ## 🔗 Links
