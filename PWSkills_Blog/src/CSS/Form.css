@@ -1,0 +1,46 @@
+#form{
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: 20;
+    background-color: rgba(0, 0, 0, 0.224);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#form div{
+    max-width: 600px;
+    background-color: aliceblue;
+    padding: 1.2rem;
+    border-radius: 10px;
+}
+
+#form input{
+    width: 100%;
+    padding: 0.8rem 1rem;
+    margin: 0.5rem 0;
+}
+#form textarea{
+    resize: none;
+    height: 10rem;
+    width: 100%;
+    padding: 0.8rem 1rem;
+    margin: 0.5rem 0;
+}
+#form button{
+    width: 100%;
+    padding: 0.8rem 0;
+    background-color: #164e63;
+    margin-top: 1rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+#form span{
+    margin-left: 97%;
+    font-size: 2rem;
+    cursor: pointer;
+}

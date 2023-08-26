@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="stylesheet" href="./style.css">
+    <title>Nodemon Movies</title>
+</head>
+
+<body>
+    <div id="preloaderContainer"></div>
+    <div id="main">
+        <h1>Movie List</h1>
+        <div class="input"><input oninput="search()" type="text" placeholder="Search Movies"></div>
+        <div class="container">
+        </div>
+        <div class='btnDiv'>
+            <button class="prebtn"> &#8592;</button>
+            <div>
+                <p class="currentPage">1</p>
+                <span>/</span>
+                <p class="totalPage">20</p>
+            </div>
+            <button class="nextbtn"> &#8594;</button>
+        </div>
+        
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>

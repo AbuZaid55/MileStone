@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family:cursive
+}
+body{
+    background-color: #1e293b;
+}
+#main h1{
+    margin: 1rem;
+    text-align: center;
+}
+#main .input{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main input{
+    width: 100%;
+    max-width: 50rem;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    border: 2px solid black;
+    color: #0c4a6e;
+    font-size: 1.2rem;
+    border: 2px solid #0c4a6e;
+}
+#main .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#main .card{
+    background-color: #0c4a6e;
+    width: 19rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 10px;
+
+}
+#main img{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 15rem;
+    max-height: 15rem;
+    background-color: white;
+    border-radius: 8px;
+}
+#main .card h2{
+    font-size: 1.1rem;
+    margin: 1rem 0;
+    height: 3rem;
+    width: 100%;
+    overflow: hidden;
+}
+#main .card button{
+    width: 100%;
+    background-color: #db2777;
+    padding: 0.5rem 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#main .btnDiv {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+#main .btnDiv div {
+    position: fixed;
+    z-index: 10;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border: 2px solid #0c4a6e;
+    font-size: 1.5rem;
+    padding: 0 1rem;
+    border-radius: 40px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#main .btnDiv div p {
+    box-sizing: border-box;
+    color: #0c4a6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.7rem 0.5rem;
+    border-radius: 50%;
+}
+#main .btnDiv div span {
+    font-size: 1.8rem;
+    color: #0c4a6e;
+}
+#main .btnDiv button {
+    position: fixed;
+    z-index: 10;
+    background-color: white;
+    color: #0c4a6e;
+    margin: 0 2rem;
+    padding: 0rem 1rem;
+    border: 2px solid #0c4a6e;
+    outline: 0;
+    font-size: 2rem;
+    border-radius: 10%;
+    cursor: pointer;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#main .btnDiv button:first-child {
+    bottom: 1rem;
+    left: 0;
+}
+
+#main .btnDiv button:nth-child(3) {
+    right: 0;
+    bottom: 1rem;
+}
+
+.preloader{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1e293bd2;
+    z-index: 100;
+}
+.preloader img{
+    transform: rotate(45deg);
+}

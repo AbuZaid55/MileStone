@@ -1,0 +1,22 @@
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #f0f9ff;
+    color: #164e63;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-family: 'Lora', serif ;
+    z-index: 10;
+    border-bottom: 2px solid #164e63;
+}
+#header h1{
+    font-family: 'Lora', serif ;
+}
+#header span{
+    font-size: 2rem;
+    cursor: pointer;
+}
